@@ -1,4 +1,5 @@
 
+// assigning respective values for all variables
 
 var recipeName = "Creamy squash linguine";
 var preparationTime = 45;
@@ -16,6 +17,9 @@ console.log("Calories: " + calories);
 
 console.log('Recipe Details after update');
 console.log("---------------------------");
+
+//updating values...
+
 preparationTime = 60;
 recipeBy = "Jimmy Cutter George";
 
